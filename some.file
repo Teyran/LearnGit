@@ -11,9 +11,4 @@ last line
 Third line
 Fourth line
 One Two Three
-<<<<<<< Updated upstream
-after stash
-=======
-before stash
->>>>>>> Stashed changes
 Line to branch
