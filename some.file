@@ -11,12 +11,5 @@ last line
 Third line
 Fourth line
 One Two Three
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-after stash
-=======
-before stash
->>>>>>> Stashed changes
-=======
-before stash
->>>>>>> Stashed changes
+Line to branch
+
